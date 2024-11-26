@@ -10,7 +10,7 @@ dependencies:
   - numpy
   - pandas
   - pip
-  - python=3.12
+  - python=3.11
   - scikit-learn
   - scipy
   - ucimlrepo
